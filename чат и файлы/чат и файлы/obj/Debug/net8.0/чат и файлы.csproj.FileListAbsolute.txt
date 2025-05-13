@@ -1,0 +1,14 @@
+C:\Users\DIMON\source\repos\чат и файлы\чат и файлы\bin\Debug\net8.0\чат и файлы.exe
+C:\Users\DIMON\source\repos\чат и файлы\чат и файлы\bin\Debug\net8.0\чат и файлы.deps.json
+C:\Users\DIMON\source\repos\чат и файлы\чат и файлы\bin\Debug\net8.0\чат и файлы.runtimeconfig.json
+C:\Users\DIMON\source\repos\чат и файлы\чат и файлы\bin\Debug\net8.0\чат и файлы.dll
+C:\Users\DIMON\source\repos\чат и файлы\чат и файлы\bin\Debug\net8.0\чат и файлы.pdb
+C:\Users\DIMON\source\repos\чат и файлы\чат и файлы\obj\Debug\net8.0\чат и файлы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIMON\source\repos\чат и файлы\чат и файлы\obj\Debug\net8.0\чат и файлы.AssemblyInfoInputs.cache
+C:\Users\DIMON\source\repos\чат и файлы\чат и файлы\obj\Debug\net8.0\чат и файлы.AssemblyInfo.cs
+C:\Users\DIMON\source\repos\чат и файлы\чат и файлы\obj\Debug\net8.0\чат и файлы.csproj.CoreCompileInputs.cache
+C:\Users\DIMON\source\repos\чат и файлы\чат и файлы\obj\Debug\net8.0\чат и файлы.dll
+C:\Users\DIMON\source\repos\чат и файлы\чат и файлы\obj\Debug\net8.0\refint\чат и файлы.dll
+C:\Users\DIMON\source\repos\чат и файлы\чат и файлы\obj\Debug\net8.0\чат и файлы.pdb
+C:\Users\DIMON\source\repos\чат и файлы\чат и файлы\obj\Debug\net8.0\чат и файлы.genruntimeconfig.cache
+C:\Users\DIMON\source\repos\чат и файлы\чат и файлы\obj\Debug\net8.0\ref\чат и файлы.dll

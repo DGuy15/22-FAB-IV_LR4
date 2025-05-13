@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "чат и файлы/1.0.0": {
+        "runtime": {
+          "чат и файлы.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "чат и файлы/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
